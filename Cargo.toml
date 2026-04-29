@@ -1,6 +1,17 @@
 [package]
 name = "megastore_busca"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+authors = ["Kevin Soares Figueiredo Costa"]
+description = "Sistema de busca otimizado com HashMaps e Grafos para a MegaStore"
 
 [dependencies]
+# Nenhuma dependência externa necessária - usamos a Standard Library do Rust
+
+[lib]
+name = "megastore_busca"
+path = "src/lib.rs"
+
+[[bin]]
+name = "megastore_busca_bin"
+path = "src/main.rs"
