@@ -1,0 +1,1 @@
+C:\Users\Kevin1.0\Desktop\Mega_store\megastore_busca\target\debug\megastore_busca_bin.exe: C:\Users\Kevin1.0\Desktop\Mega_store\megastore_busca\src\lib.rs C:\Users\Kevin1.0\Desktop\Mega_store\megastore_busca\src\main.rs C:\Users\Kevin1.0\Desktop\Mega_store\megastore_busca\src\modelos.rs C:\Users\Kevin1.0\Desktop\Mega_store\megastore_busca\src\motor.rs
