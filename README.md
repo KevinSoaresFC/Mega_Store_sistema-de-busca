@@ -4,10 +4,10 @@
 Sistema de alta performance desenvolvido em Rust para a MegaStore. O objetivo é realizar buscas instantâneas em catálogos volumosos e sugerir produtos através de um sistema de recomendação baseado em grafos.
 
 ## 🛠️ Tecnologias Utilizadas
-* **Linguagem:** Rust (Edition 2021)
-* **Gerenciador:** Cargo
-* **Estruturas:** HashMap (Tabelas Hash) e Vec (Listas de Adjacência para Grafos)
-* **Ferramentas de Teste:** `cargo test` nativo
+ **Linguagem:** Rust (Edition 2021)
+ **Gerenciador:** Cargo
+ **Estruturas:** HashMap (Tabelas Hash) e Vec (Listas de Adjacência para Grafos)
+ **Ferramentas de Teste:** cargo test nativo
 
 ## 🚀 Como Executar o Sistema
 1. Navegue até a pasta: `cd megastore_busca`
